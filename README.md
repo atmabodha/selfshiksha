@@ -12,4 +12,4 @@ https://tinyurl.com/dsmlselfshiksha
 
 ML Blog:
 
-https://medium.com/@atmabodha
+https://bekushal.medium.com
