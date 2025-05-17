@@ -1,0 +1,5 @@
+fastmcp
+mcp[cli]
+uvicorn
+requests
+python-dotenv
